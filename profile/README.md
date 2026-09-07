@@ -14,7 +14,7 @@
 
 </div>
 
-DeSBi develops **statistically grounded artificial intelligence for biomedical data**. We combine the modelling flexibility of deep learning with statistical inference, uncertainty quantification, explanation, confounder-aware and causal analysis, and structured modelling—so that learned representations can support reliable scientific conclusions rather than prediction alone.
+DeSBi develops **statistically grounded artificial intelligence for biomedical data**. We combine the modelling flexibility of deep learning with statistical inference, uncertainty quantification, explanation, confounder-aware and causal analysis, and structured modelling, so that learned representations can support reliable scientific conclusions rather than prediction alone.
 
 ```mermaid
 flowchart TB
