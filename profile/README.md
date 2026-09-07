@@ -66,6 +66,7 @@ Key methodological contributions spanning statistical inference to mechanistic i
 
 These repositories are undergoing independent review and will receive curated DeSBi releases:
 
+- **[PLRP](https://gitlab.com/dacs-hpi/plrp)** – Pruned Layer-wise Relevance Propagation
 - **[quanda](https://github.com/dfg-desbi/quanda)** – Quantitative evaluation of training-data attribution methods
 - **[PURE](https://github.com/dfg-desbi/PURE)** – Turning polysemantic neurons into pure features
 - **[pcx](https://github.com/dfg-desbi/pcx)** – Prototypical concept-based explanations
@@ -76,8 +77,9 @@ These repositories are undergoing independent review and will receive curated De
 
 Additional research software is documented in the **[complete software catalogue](https://github.com/dfg-desbi/software-catalogue)**:
 
-- **[zennit](https://github.com/dfg-desbi/zennit)** – Layer-wise relevance propagation for PyTorch
 - **[LRP-eXplains-Transformers](https://github.com/dfg-desbi/LRP-eXplains-Transformers)** – Explaining transformer models
+- **[zennit](https://github.com/dfg-desbi/zennit)** – Layer-wise relevance propagation for PyTorch
+- **[explain_dnabert2](https://gitlab.com/dacs-hpi/explain_dnabert2)** – Explainability for DNABERT2
 - **[toybrains](https://github.com/dfg-desbi/toybrains)** – Causal synthetic neuroimaging benchmark
 - **[arctique](https://github.com/dfg-desbi/arctique)** – Controllable synthetic histopathology
 - **[DeepRepViz](https://github.com/dfg-desbi/DeepRepViz)** – Diagnostics for confounder encoding
